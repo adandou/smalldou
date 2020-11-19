@@ -17,3 +17,7 @@ const formatNumber = n => {
 module.exports = {
   formatTime: formatTime
 }
+
+module.smalldou = {
+  name : "不可描述的small-dou"
+}
